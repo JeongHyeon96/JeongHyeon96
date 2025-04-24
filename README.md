@@ -15,15 +15,19 @@
 
 ---
 
-## 🔥 프로젝트 및 활동
+## 👨‍💻 프로젝트 경험
 
-- 🧨 **CTF 문제 제작**: `Ghost in the Code` 라는 워게임 제작 중  
-- 💡 **문제 예시**: FTP 취약점, DB Injection, 웹쉘 업로드, 쿠키 위조 등  
-- 📑 **침해사고 보고서 작성 연습**: CTF 실습 결과 기반 보고서 제작 및 구성 연습
+### ✅ 팀 프로젝트
+
+- 🔍 **취약점 진단 자동화 쉘 스크립트 제작** (with **Team EN**)
+- 🎨 **CTF 플랫폼 제작 – PIXEL GALLERY** (with **Team EN**)
+  - WordPress, FTP, DB Injection 등 다양한 시나리오 구성
+- 🎮 **Wargame 플랫폼 제작 중 – Ghost in the Code** (with **Team ESG**)
+  - HTML/CSS/JavaScript + PHP 기반의 인터랙티브 문제 풀이 시스템 개발
 
 ---
 
-## 🔗 Stack
+## 🔧 Stack
 
 ### 💻 Shell & Scripting
 - Bash, Shell Script
@@ -42,7 +46,7 @@
 
 ---
 
-## 📈 My Stats
+## 📊 My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon96&show_icons=true&theme=tokyonight" alt="JeongHyeon96's GitHub stats" />
@@ -53,8 +57,7 @@
 
 ## 📫 Contact
 
-- 📮 Email: your.email@example.com *(이메일 원하면 알려줘!)*
-- 🔗 Velog, Blog: *연결할 사이트 있으면 넣어줄게!*
+- 📧 Email: **cv39290412@gmail.com**
 
 ---
 

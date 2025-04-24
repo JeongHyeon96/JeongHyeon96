@@ -27,17 +27,31 @@
 
 ---
 
-🔧 Stack
-💻 Shell & Scripting
-<p> <img src="https://img.shields.io/badge/-Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> </p>
-🗄 Databases
-<p> <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> </p>
-🚀 DevOps & Containers
-<p> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> </p>
-📂 Version Control & Docs
-<p> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub%20Pages-121011?style=for-the-badge&logo=githubpages&logoColor=white"/> </p>
-🧰 Operating Systems
-<p> <img src="https://img.shields.io/badge/-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> </p>
+# 🔧 Stack
+
+### 💻 Shell & Scripting
+- ![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white) 
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🗄 Databases
+- ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🚀 DevOps & Containers
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📂 Version Control & Docs
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+- ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121011?style=for-the-badge&logo=githubpages&logoColor=white)
+
+### 🧰 Operating Systems
+- ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) 
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 ---
 

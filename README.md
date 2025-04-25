@@ -20,6 +20,7 @@
 ### ✅ 팀 프로젝트
 
 - 🔍 **취약점 진단 자동화 쉘 스크립트 제작** (with **Team EN**)
+👉 [자동화 쉘 스크립트 레포지토리](https://github.com/JeongHyeon96/Vulnerability-Scanner-ScriptTeamEN)
 - 🎨 **CTF 플랫폼 제작 – PIXEL GALLERY** (with **Team EN**)
   - WordPress, FTP, DB Injection 등 다양한 시나리오 구성
 👉 [PIXEL GALLERY 레포지토리](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN)

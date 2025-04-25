@@ -22,6 +22,7 @@
 - 🔍 **취약점 진단 자동화 쉘 스크립트 제작** (with **Team EN**)
 - 🎨 **CTF 플랫폼 제작 – PIXEL GALLERY** (with **Team EN**)
   - WordPress, FTP, DB Injection 등 다양한 시나리오 구성
+👉 [PIXEL GALLERY 레포지토리](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN)
 - 🎮 **Wargame 플랫폼 제작 중 – Ghost in the Code** (with **Team ESG**)
   - HTML/CSS/JavaScript + PHP 기반의 인터랙티브 문제 풀이 시스템 개발
 

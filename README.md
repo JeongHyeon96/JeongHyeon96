@@ -19,13 +19,20 @@
 
 ### ✅ 팀 프로젝트
 
-- 🔍 **취약점 진단 자동화 쉘 스크립트 제작** (with **Team EN**)
+🔍 **취약점 진단 자동화 쉘 스크립트 제작** (with Team EN)
+- 다양한 시스템 취약점을 자동으로 스캔하고 진단하는 쉘 스크립트 작성
+- 보안 취약점 자동 탐지 및 리포팅 기능 포함
+- Bash 및 Linux 시스템에 최적화된 자동화 스크립트 개발
 👉 [자동화 쉘 스크립트 레포지토리](https://github.com/JeongHyeon96/Vulnerability-Scanner-ScriptTeamEN)
-- 🎨 **CTF 플랫폼 제작 – PIXEL GALLERY** (with **Team EN**)
-  - WordPress, FTP, DB Injection 등 다양한 시나리오 구성
+
+🎨 **CTF 플랫폼 제작 – PIXEL GALLERY** (with Team EN)
+- WordPress, FTP, DB Injection 등 다양한 시나리오 구성
+- 다양한 해킹 기법을 활용한 CTF 문제 출제 및 풀이 시스템 구축
 👉 [PIXEL GALLERY 레포지토리](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN)
-- 🎮 **Wargame 플랫폼 제작 중 – Ghost in the Code** (with **Team ESG**)
-  - HTML/CSS/JavaScript + PHP 기반의 인터랙티브 문제 풀이 시스템 개발
+
+🎮 **Wargame 플랫폼 제작 중 – Ghost in the Code** (with Team ESG)
+- HTML/CSS/JavaScript + PHP 기반의 인터랙티브 문제 풀이 시스템 개발
+- 실시간 데이터 보호와 보안 침해 실습을 위한 학습용 플랫폼
 
 ---
 

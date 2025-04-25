@@ -37,6 +37,7 @@
 🎮 **Wargame 플랫폼 제작 중 – Ghost in the Code** (with Team ESG)
 - HTML/CSS/JavaScript + PHP 기반의 인터랙티브 문제 풀이 시스템 개발
 - 실시간 데이터 보호와 보안 침해 실습을 위한 학습용 플랫폼
+👉 [WarGame 레포지토리](https://github.com/JeongHyeon96/WarGame_TeamESG)
 
 ---
 

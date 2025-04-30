@@ -48,10 +48,10 @@
 - pfSense 기반 방화벽 및 이중 NAT 구조, ASAv 연동을 통한 실전 네트워크 보안 구성  
 - 내부 서버군에 Zabbix 기반 모니터링 시스템 및 Snort/Suricata 탐지 시스템 구축  
 - 공격 시나리오에 따른 대응 방안 수립 및 침해사고 대응 절차 문서화  
-👉 [보안 인프라 구축 프로젝트 레포지토리](https://github.com/JeongHyeon96/Security-Infrastructure-Project) *(← 레포 주소 바꿔주세요)*
+👉 [보안 인프라 구축 프로젝트 레포지토리](https://github.com/JeongHyeon96/full_security_portfolio) 
 
 <p align="center">
-  <img src="https://github.com/JeongHyeon96/Security-Infrastructure-Project/blob/main/architecture_diagram.png" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
 </p>
 
 # 🔧 Stack

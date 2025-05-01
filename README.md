@@ -100,8 +100,13 @@
 ---
 
 > ✍️ *“취약점을 공부하며 강해지고 있는 중입니다. 끝까지 가보자!”*
+
 ---
 
-![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=JeongHyeon96)
+## 🔥 GitHub Stats & 잔디 그래프
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeongHyeon96&theme=tokyonight)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JeongHyeon96&theme=github-compact)
+
+---

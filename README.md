@@ -103,8 +103,8 @@
 
 ---
 
-## 📊 GitHub Activity
+## 🏆 GitHub Stats
 
-![JeongHyeon96's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeongHyeon96&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
+![JeongHyeon96's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHyeon96&show_icons=true&theme=tokyonight)
 
 ---

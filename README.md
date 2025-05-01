@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 실무형 역량
+## 🎯 활용 능력
 
 - 🚨 **침해사고 대응 (CERT)**: 시나리오 기반 실습과 보고서 작성까지 직접 경험  
 - 🛡 **웹 취약점 분석 및 모의 해킹**: 구형 WordPress 기반 CTF 문제 제작, Metasploit/Nmap/Burpsuite/Wireshark 실습  
@@ -51,6 +51,12 @@
 <p align="center">
   <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
 </p>
+---
+
+## 🔗 Sites
+
+- 📝 **Blog (GitBook)**: [https://jeonghyeon.gitbook.io/cyberops-logbook](https://jeonghyeon.gitbook.io/cyberops-logbook)
+- 🏠 **GitHub Profile**: [https://github.com/JeongHyeon96](https://github.com/JeongHyeon96)
 
 ---
 

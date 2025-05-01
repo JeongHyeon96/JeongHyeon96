@@ -103,10 +103,8 @@
 
 ---
 
-## 🔥 GitHub Stats & 잔디 그래프
+## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeongHyeon96&theme=tokyonight)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JeongHyeon96&theme=github-compact)
+![JeongHyeon96's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeongHyeon96&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
 
 ---

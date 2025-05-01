@@ -102,6 +102,6 @@
 > ✍️ *“취약점을 공부하며 강해지고 있는 중입니다. 끝까지 가보자!”*
 ---
 
-![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=junghyun)
+![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=JeongHyeon96)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=junghyun&theme=github-compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JeongHyeon96&theme=github-compact)

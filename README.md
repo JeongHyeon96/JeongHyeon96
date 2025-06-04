@@ -20,6 +20,21 @@
 
 ## 👨‍💻 프로젝트 경험
 
+### 🛡 개인 프로젝트
+
+**보안 인프라 구축 실습 – 기업 환경 기반 아키텍처 설계**  
+- 실제 기업 네트워크 구조를 가정하여 외부 DMZ, 내부망, DB서버 분리 구성  
+- pfSense 기반 방화벽과 ASAv 연동, 이중 NAT 구조 구축  
+- Snort/Suricata 기반 침입 탐지 시스템 및 Zabbix 모니터링 환경 설정  
+- 다양한 공격 시나리오에 따른 대응 절차와 보고서 작성  
+👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/full_security_portfolio) 
+
+<p align="center">
+  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+</p>
+
+---
+
 ### 팀 프로젝트
 
 **🔍 취약점 진단 자동화 쉘 스크립트**  
@@ -36,21 +51,6 @@
 - 웹 기반 CLI 스타일 문제 풀이 환경 구성  
 - 실시간 보안 실습이 가능한 학습용 인터랙티브 시스템 구축  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/WarGame_TeamESG)
-
----
-
-### 🛡 개인 프로젝트
-
-**보안 인프라 구축 실습 – 기업 환경 기반 아키텍처 설계**  
-- 실제 기업 네트워크 구조를 가정하여 외부 DMZ, 내부망, DB서버 분리 구성  
-- pfSense 기반 방화벽과 ASAv 연동, 이중 NAT 구조 구축  
-- Snort/Suricata 기반 침입 탐지 시스템 및 Zabbix 모니터링 환경 설정  
-- 다양한 공격 시나리오에 따른 대응 절차와 보고서 작성  
-👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/full_security_portfolio) 
-
-<p align="center">
-  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
-</p>
 
 ---
 

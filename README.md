@@ -50,7 +50,7 @@
 - 문제 출제와 풀이 시스템을 직접 구현  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN)
 <p align="center">
-  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+  <img src="https://github.com/JeongHyeon96/CTF_PixelGallery/blob/main/CTF_PixelGallery_main.gif" width="600" alt="CTF 플랫폼 제작 – PIXEL GALLERY" />
 </p>
 
 **🎮 Wargame 플랫폼 제작 – Ghost in the Code**  
@@ -58,7 +58,7 @@
 - 실시간 보안 실습이 가능한 학습용 인터랙티브 시스템 구축  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/WarGame_TeamESG)
 <p align="center">
-  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+  <img src="https://github.com/JeongHyeon96/WarGame/blob/main/demo.gif" width="600" alt="Wargame 플랫폼" />
 </p>
 
 ---

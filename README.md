@@ -27,9 +27,6 @@
 - pfSense 기반 방화벽과 ASAv 연동, 이중 NAT 구조 구축  
 - Snort/Suricata 기반 침입 탐지 시스템 및 Zabbix 모니터링 환경 설정  
 - 다양한 공격 시나리오에 따른 대응 절차와 보고서 작성
-<p align="center">
-  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
-</p>
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/full_security_portfolio) 
 
 <p align="center">
@@ -44,16 +41,25 @@
 - 시스템 취약점을 자동으로 스캔하고 진단하는 스크립트 개발  
 - 리눅스 환경에 최적화된 자동화 및 보고서 생성 기능 포함  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/Vulnerability-Scanner-ScriptTeamEN)
+<p align="center">
+  <img src="https://github.com/JeongHyeon96/Vulnerability_Scanner_Script/blob/main/demo.gif" width="600" alt="취약점 진단 자동화 쉘 스크립트" />
+</p>
 
 **🎨 CTF 플랫폼 제작 – PIXEL GALLERY**  
 - WordPress, FTP, DB Injection 등 다양한 해킹 시나리오 구성  
 - 문제 출제와 풀이 시스템을 직접 구현  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/CTF_PixelGallery_TeamEN)
+<p align="center">
+  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+</p>
 
 **🎮 Wargame 플랫폼 제작 – Ghost in the Code**  
 - 웹 기반 CLI 스타일 문제 풀이 환경 구성  
 - 실시간 보안 실습이 가능한 학습용 인터랙티브 시스템 구축  
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/WarGame_TeamESG)
+<p align="center">
+  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+</p>
 
 ---
 

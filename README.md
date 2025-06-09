@@ -20,7 +20,6 @@
 
 ## 👨‍💻 프로젝트 경험
 
-###  개인 프로젝트
 
 **보안 인프라 구축 실습 – 기업 환경 기반 아키텍처 설계**  
 - 실제 기업 네트워크 구조를 가정하여 외부 DMZ, 내부망, DB서버 분리 구성  
@@ -33,9 +32,6 @@
   <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
 </p>
 
----
-
-### 팀 프로젝트
 
 **🔍 취약점 진단 자동화 쉘 스크립트**  
 - 시스템 취약점을 자동으로 스캔하고 진단하는 스크립트 개발  

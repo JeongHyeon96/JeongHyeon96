@@ -26,7 +26,10 @@
 - 실제 기업 네트워크 구조를 가정하여 외부 DMZ, 내부망, DB서버 분리 구성  
 - pfSense 기반 방화벽과 ASAv 연동, 이중 NAT 구조 구축  
 - Snort/Suricata 기반 침입 탐지 시스템 및 Zabbix 모니터링 환경 설정  
-- 다양한 공격 시나리오에 따른 대응 절차와 보고서 작성  
+- 다양한 공격 시나리오에 따른 대응 절차와 보고서 작성
+<p align="center">
+  <img src="https://github.com/JeongHyeon96/full_security_portfolio/raw/main/full_security_portfolio.PNG" width="600" alt="보안 인프라 아키텍처 다이어그램" />
+</p>
 👉 [레포지토리 바로가기](https://github.com/JeongHyeon96/full_security_portfolio) 
 
 <p align="center">

@@ -9,12 +9,12 @@
 
 ## 🎯 활용 능력
 
-- 🚨 **침해사고 대응 (CERT)**: 시나리오 기반 실습과 보고서 작성까지 직접 경험  
-- 🛡 **웹 취약점 분석 및 모의 해킹**: 구형 WordPress 기반 CTF 문제 제작, Metasploit/Nmap/Burpsuite/Wireshark 실습  
-- 🧠 **리눅스 시스템 보안**: 권한 상승, 로그 분석, 사용자 격리 등 VulnHub 실습을 통한 시스템 해킹 경험  
-- 🌐 **네트워크 구성 실습**: GNS3와 패킷 트레이서를 이용해 VLAN, ASAv, pfSense 기반 네트워크 구축  
-- 🐞 **악성코드 분석 입문**: 정적·동적 분석 툴 실습 중 (OllyDbg, IDA Pro 등)  
-- 🔒 **보안 탐지 및 정책 구성**: Snort, Suricata를 활용한 탐지 규칙 작성 및 WAF 설정 실습
+- **침해사고 대응 (CERT)**: 시나리오 기반 실습과 보고서 작성까지 직접 경험  
+- **웹 취약점 분석 및 모의 해킹**: 구형 WordPress 기반 CTF 문제 제작, Metasploit/Nmap/Burpsuite/Wireshark 실습  
+- **리눅스 시스템 보안**: 권한 상승, 로그 분석, 사용자 격리 등 VulnHub 실습을 통한 시스템 해킹 경험  
+- **네트워크 구성 실습**: GNS3와 패킷 트레이서를 이용해 VLAN, ASAv, pfSense 기반 네트워크 구축  
+- **악성코드 분석 입문**: 정적·동적 분석 툴 실습 중 (OllyDbg, IDA Pro 등)  
+- **보안 탐지 및 정책 구성**: Snort, Suricata를 활용한 탐지 규칙 작성 및 WAF 설정 실습
 
 ---
 

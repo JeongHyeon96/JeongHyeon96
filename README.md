@@ -68,7 +68,7 @@
 
 ## 🔗 Sites
 
-[![GitBook Blog](https://img.shields.io/badge/-GitBook%20Blog-7C4DFF?style=for-the-badge&logo=gitbook&logoColor=white)](https://jeonghyeon.gitbook.io/cyberops-logbook)
+[![GitBook Blog](https://img.shields.io/badge/-GitBook%20Blog-7C4DFF?style=for-the-badge&logo=gitbook&logoColor=white)](https://jeonghyeon.gitbook.io/jeonghyeons-logbook)
 [![GitHub Profile](https://img.shields.io/badge/-GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeongHyeon96)
 
 ---
